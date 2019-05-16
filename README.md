@@ -1,2 +1,2 @@
-# RF_examples
-Robotframework examples
+# RF_SeleniumLibrary_examples
+Robotframework SeleniumLibrary examples
