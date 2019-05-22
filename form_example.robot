@@ -1,4 +1,4 @@
-** Settings ***
+*** Settings ***
 Library    SeleniumLibrary
 Library    FakerLibrary
 Library    DateTime     # see birthday and age part
